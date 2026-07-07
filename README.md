@@ -4,7 +4,7 @@
 A simple task management web app built to practice PHP and database skills for the Web Technologies 2 course. Users can add, edit, delete, and track daily tasks with a status (Pending / Done) through a clean single-page interface backed by a SQLite database.
 
 ## Preview
-![Daily Tasks UI](screenshots/preview.png)
+![Daily Tasks UI](screenshot/preview.png)
 
 ## Features
 - Add a new task with a name and status
